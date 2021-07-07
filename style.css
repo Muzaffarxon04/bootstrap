@@ -1,0 +1,52 @@
+*,
+*::before,
+*::after{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    overflow-x: hidden;
+}
+input{
+    width: 315px;
+    height: 37px;
+    margin-top: 16px;
+}
+select{
+    height: 37px;
+}
+.btn-warning{
+    width: 315px;
+}
+
+
+.alert{
+    width: 720px;
+}
+.card{
+    width: 345px;
+    margin-right: 32px;
+    height: 385px;
+}
+.pagination{
+    padding-left: 289px;
+    padding-top: 17px;
+}
+.star{
+    margin-top: 15px;
+    margin-left: -5px;
+}
+.d-inline{
+position: relative;
+top: 10px;
+left: 5px;
+}
+.border{
+    height: 85px;
+    width: 318px;
+    margin-left: 23px;
+}
+ul{
+    list-style-type: none;
+}
